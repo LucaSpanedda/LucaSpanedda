@@ -1,1 +1,4 @@
-### Luca Spanedda was born in Rome on 15th February 1995. He is enrolled in the last two-year course (Biennio) of Electronic Music at the Conservatory in Rome. Composer, sound experimenter and audio developer.
+Luca Spanedda is a Composer, sound experimenter, audio developer and Musician.
+He was born in Rome on 15th February 1995.
+His attention to music surfs from cybernetics to technologies,
+and from sound and human spaces to social criticism.
